@@ -1484,7 +1484,7 @@ section.lazy-placeholder:after {
 @isPublish: true;
 
 .cid-qTkzRZLJNu {
-@showLogo: false;
+@showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
@@ -2101,7 +2101,7 @@ h2, h3, p {
 @isPublish: true;
 
 .cid-qTkzRZLJNu {
-@showLogo: false;
+@showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
@@ -2529,7 +2529,7 @@ nav.opened .hamburger span {
 @isPublish: true;
 
 .cid-qTkzRZLJNu {
-@showLogo: false;
+@showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
@@ -2957,7 +2957,7 @@ nav.opened .hamburger span {
 @isPublish: true;
 
 .cid-qTkzRZLJNu {
-@showLogo: false;
+@showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
@@ -3385,7 +3385,7 @@ nav.opened .hamburger span {
 @isPublish: true;
 
 .cid-qTkzRZLJNu {
-@showLogo: false;
+@showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
